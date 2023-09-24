@@ -1,3 +1,3 @@
 <?php
-  system("cat/paasswd");
+  system("cat/passwd");
 ?>
